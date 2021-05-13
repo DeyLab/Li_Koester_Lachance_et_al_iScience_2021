@@ -2,7 +2,7 @@
 
 "Microbiome-encoded bile acid metabolism modulates colonic transit times"
 
-- Naisi Li, Sean T. Koester, Daniel M. Lachance, Moumita Dutta, Julia Yue Cui, and Neelendu Dey
+by Naisi Li, Sean T. Koester, Daniel M. Lachance, Moumita Dutta, Julia Yue Cui, and Neelendu Dey
 
 DOI: https://doi.org/10.1016/j.isci.2021.102508
 
